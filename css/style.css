@@ -1,7 +1,8 @@
-#topimg{
+#a{
   background-image: url("pictures/0002.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   height: 100vh;
   overflow:hidden;
+  background-attachment: fixed;
 }
