@@ -4,6 +4,12 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
-  overflow:hidden;
-  background-attachment: fixed;
+}
+.mojigun{
+#title{
+  font-family: serif;
+  color: white;
+  font-size: 100px;
+  margin-left: 70%;
+}
 }
